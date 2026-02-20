@@ -1,7 +1,7 @@
 package chapter14_lambda_expressions.method_reference.to_instance_method2;
 
 
-//Class that storess the temperature high for a day
+//Class that stores the temperature high for a day
 public class HighTemp {
 	private int hTemp;
 	
