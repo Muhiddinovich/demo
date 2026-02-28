@@ -1,4 +1,4 @@
-package chapter16_modules.simple_module_example.mymodapp.appsrc.appfuncs.appfuncs.simplfuncs;
+package appfuncs.simplfuncs;
 
 public class SimpleMathFuncs {
 	public static boolean isFactor(int a, int b) {

@@ -1,4 +1,4 @@
-package chapter16_modules.simple_module_example.mymodapp.appsrc.appstart.appstart.mymodappdemo;
+package appstart.mymodappdemo;
 
 import chapter16_modules.simple_module_example.mymodapp.appsrc.appfuncs.appfuncs.simplfuncs.SimpleMathFuncs;
 
