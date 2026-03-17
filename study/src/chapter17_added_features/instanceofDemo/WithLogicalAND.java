@@ -9,7 +9,7 @@ public class WithLogicalAND {
 			System.out.println(iObj);
 		}
 		
-//		if ((myOb instanceof Integer iObj) &&= (iObj >= 0)) {  //Error because Java checks both sides
+//		if ((myOb instanceof Integer iObj) && (iObj >= 0)) {  //Error because Java checks both sides
 //			System.out.println(myOb +" is positive");
 //		}
 
