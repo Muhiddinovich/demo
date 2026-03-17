@@ -1,6 +1,6 @@
 package chapter17_added_features.switch_enhancements.list_of_case_constants;
 
-public class LiseOfCase {
+public class ListOfCase {
 
 	public static void main(String[] args) {
 		int priorityLevel;
